@@ -1,0 +1,9 @@
+pane	0	0	:..haskell/other	0	: 	0	:/home/michael/Development/haskell/other	1	vim	:vim rec.hs
+pane	0	1	:vim	0	:-	0	:/home/michael/Dropbox/ucsb/research/projects/h-machine/projects/archlab-repos/h-machine/compiler/src/ASM	1	vim	:vim Binary.hs
+pane	0	2	:vim	1	:*	0	:/home/michael/Development/haskell/other	1	vim	:vim serialize2.hs
+pane	0	2	:vim	1	:*	1	:/home/michael/Development/haskell/other	0	ghc	:/home/michael/.stack/programs/x86_64-linux/ghc-7.10.3/lib/ghc-7.10.3/bin/ghc -B/home/michael/.stack/programs/x86_64-linux/ghc-7.10.3/lib/ghc-7.10.3 --interactive -i -odir=/home/michael/.stack/global-project/.stack-work/odir -hidir=/home/michael/.stack/global-project/.stack-work/odir -ghci-script=/tmp/ghci10552/ghci-script
+pane	0	2	:vim	1	:*	2	:/tmp	0	zsh	:
+window	0	0	0	: 	abbd,150x40,0,0,0
+window	0	1	0	:-	c620,74x38,0,0,3
+window	0	2	1	:*	29f6,74x38,0,0[74x19,0,0,4,74x9,0,20,6,74x8,0,30,8]
+state	0	

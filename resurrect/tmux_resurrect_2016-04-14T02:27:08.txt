@@ -1,0 +1,5 @@
+pane	0	0	:...43/databases	1	:*	0	:/home/michael/Dropbox/ucsb/research/projects/h-machine/other/seL4-microkernel/seL4/haskell/src	0	vim	:vim SEL4.lhs
+pane	0	0	:...43/databases	1	:*	1	:/home/michael/Dropbox/ucsb/research/projects/h-machine/other/seL4-microkernel/seL4/haskell/src	0	ghc	:/home/michael/.stack/programs/x86_64-linux/ghc-7.10.3/lib/ghc-7.10.3/bin/ghc -B/home/michael/.stack/programs/x86_64-linux/ghc-7.10.3/lib/ghc-7.10.3 --interactive -i -odir=/home/michael/.stack/global-project/.stack-work/odir -hidir=/home/michael/.stack/global-project/.stack-work/odir -ghci-script=/tmp/ghci15891/ghci-script
+pane	0	0	:...43/databases	1	:*	2	:/home/michael/.stack/snapshots/x86_64-linux/lts-5.8/7.10.3/share/x86_64-linux-ghc-7.10.3/hoogle-4.2.43/databases	1	zsh	:
+window	0	0	1	:*	992b,212x57,0,0[212x28,0,0,1,212x28,0,29{106x28,0,29,2,105x28,107,29,3}]
+state	0	0

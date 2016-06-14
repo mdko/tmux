@@ -1,0 +1,12 @@
+pane	0	0	:stack	0	:-	0	:/home/michael/Dropbox/ucsb/research/projects/h-machine/projects/archlab-repos/h-machine/docs	0	vim	:vim BigStepSemantics.md
+pane	0	0	:stack	0	:-	1	:/home/michael/Dropbox/ucsb/research/projects/h-machine/projects/archlab-repos/h-machine/sim	0	vim	:vim sim.py
+pane	0	0	:stack	0	:-	2	:/home/michael/Dropbox/ucsb/research/projects/h-machine/projects/archlab-repos/h-machine/compiler/src/ASM	0	vim	:vim Parser.hs
+pane	0	0	:stack	0	:-	3	:/home/michael/Dropbox/ucsb/research/projects/h-machine/projects/archlab-repos/h-machine/sim	1	ghc	:/home/michael/.stack/programs/x86_64-linux/ghc-7.10.3/lib/ghc-7.10.3/bin/ghc -B/home/michael/.stack/programs/x86_64-linux/ghc-7.10.3/lib/ghc-7.10.3 --interactive -i -odir=/home/michael/.stack/global-project/.stack-work/odir -hidir=/home/michael/.stack/global-project/.stack-work/odir -ghci-script=/tmp/ghci30047/ghci-script
+pane	0	1	:..utcoreast/src	0	:	0	:/home/michael/Dropbox/ucsb/research/projects/h-machine/projects/archlab-repos/h-machine/from_haskell/outputcoreast/src	1	zsh	:
+pane	0	2	:..mux-resurrect	1	:*	0	:/home/michael/.tmux/plugins/tmux-resurrect	1	zsh	:
+pane	0	4	:proofgeneral	0	:	0	:/home/michael/Dropbox/ucsb/research/projects/h-machine/projects/archlab-repos/h-machine/proofs	1	sh	:/bin/sh /usr/bin/proofgeneral map.v
+window	0	0	0	:-	ee5e,169x48,0,0[169x23,0,0{78x23,0,0,0,90x23,79,0,15},169x24,0,24{85x24,0,24,1,83x24,86,24,4}]
+window	0	1	0	:	5a15,150x42,0,0,16
+window	0	2	1	:*	e875,169x48,0,0,26
+window	0	4	0	:	5a13,150x42,0,0,14
+state	0	

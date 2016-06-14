@@ -1,0 +1,10 @@
+pane	0	0	:..hine/compiler	0	:-	0	:/home/michael/Dropbox/ucsb/research/projects/h-machine/projects/archlab-repos/h-machine/compiler	0	vim	:vim README.md
+pane	0	0	:..hine/compiler	0	:-	1	:/home/michael/Dropbox/ucsb/research/projects/h-machine/projects/archlab-repos/h-machine/compiler	1	zsh	:
+pane	0	2	:vim	1	:*	0	:/home/michael/Dropbox/ucsb/research/projects/h-machine/other/muen-separation-kernel/muen/kernel/src	0	vim	:vim sk-scheduler.adb
+pane	0	2	:vim	1	:*	1	:/home/michael/Dropbox/ucsb/research/projects/h-machine/other/muen-separation-kernel/muen/kernel/src	1	zsh	:
+pane	0	3	:~	0	: 	0	:/home/michael/Development/haskell/other	0	vim	:vim lines.hs
+pane	0	3	:~	0	: 	1	:/home/michael/Development/haskell/other	1	ghc	:/home/michael/.stack/programs/x86_64-linux/ghc-7.10.3/lib/ghc-7.10.3/bin/ghc -B/home/michael/.stack/programs/x86_64-linux/ghc-7.10.3/lib/ghc-7.10.3 --interactive -i -odir=/home/michael/.stack/global-project/.stack-work/odir -hidir=/home/michael/.stack/global-project/.stack-work/odir -ghci-script=/tmp/ghci12858/ghci-script
+window	0	0	0	:-	6539,150x40,0,0[150x19,0,0,14,150x20,0,20,15]
+window	0	2	1	:*	07ef,150x40,0,0[150x19,0,0,8,150x20,0,20,9]
+window	0	3	0	: 	6533,150x40,0,0[150x19,0,0,10,150x20,0,20,11]
+state	0	0
